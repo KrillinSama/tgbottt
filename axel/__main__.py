@@ -25,7 +25,7 @@ Want to follow my news channel? [Click here](http://t.me/axelsource)!
 """
 
 SOURCE_STRING = """
-I'm built in python3, using the python-telegram-bot library, and am fully opensource - you can find what makes me tick [here](https://github.com/KassemSYR/tgbot)
+I'm built in python3, using the python-telegram-bot library, and am fully opensource - you can find what makes me tick [here](https://github.com/KassemSYR/tgbot) , or directly deploy your own bot from [here](https://heroku.com/deploy?template=https://github.com/KassemSYR/tgbot)
 """
 
 HELP_STRINGS = """
@@ -46,7 +46,7 @@ Other available commands:
 """.format("" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
 DONATE_STRING = """Nice that you wanna donate. \
-You can send a donation to my maintainer via [PayPal](paypal.me/KassemKanaan)."""
+You can send a donation to my Creator via [PayPal](paypal.me/KassemKanaan)."""
 
 IMPORTED = {}
 MIGRATEABLE = []
