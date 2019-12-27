@@ -1,7 +1,7 @@
 # AxelBOT
 A telegram Python bot running on python3.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KassemSYR/Axel)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KassemSYR/tgbot)
 
 Can be found on telegram as [Axel](https://t.me/Axel0BOT).
 
